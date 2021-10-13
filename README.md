@@ -12,7 +12,7 @@ The data analysis will provide:
 - Map of the optimal warehouses locations
 
 ## Get Started
-+ You will need to install folium using !pip install folium.
++ You will need to install folium module using !pip install folium.
 
 + You will also need latitude and longtitude of high schools and volumne to run the program.
 
