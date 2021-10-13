@@ -1,5 +1,5 @@
 # InstacartWarehouse
-This is a program to analyze the optimal locations near high schools and build two warehouses in San Fransisco.
+This is a program to analyze the optimal locations near high schools and find two warehouses in San Fransisco.
 
 ## Table of Content
 * [Features](https://github.com/byu5/InstacartWarehouse/blob/main/README.md#features)
