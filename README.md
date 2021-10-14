@@ -1,5 +1,8 @@
-# InstacartWarehouse
-This is a program to analyze the optimal locations near high schools and find two warehouses in San Fransisco. Also, the code uses K-means for multiple facilities to get the centers of gravity. The results are two optimal warehouse locations.  
+# Instacart Warehouses
+This is a program to analyze the optimal locations for Instacart. The company has the partnership with over 20 high schools in San Fransisco. Use K-means methodology to get the centers of gravity. The results are two optimal warehouse locations.
+
+# Constraint
+The center of gravity is therefore the location giving the lowest total transport costs.
 
 ## Table of Content
 * [Features](https://github.com/byu5/InstacartWarehouse/blob/main/README.md#features)
