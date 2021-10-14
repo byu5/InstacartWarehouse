@@ -1,5 +1,5 @@
 # InstacartWarehouse
-This is a program to analyze the optimal locations near high schools and find two warehouses in San Fransisco.
+This is a program to analyze the optimal locations near high schools and find two warehouses in San Fransisco. Also, the code uses K-means for multiple facilities to get the centers of gravity. The results are two optimal warehouse locations.  
 
 ## Table of Content
 * [Features](https://github.com/byu5/InstacartWarehouse/blob/main/README.md#features)
@@ -9,12 +9,13 @@ This is a program to analyze the optimal locations near high schools and find tw
 
 ## Features
 The data analysis will provide:
-- Map of the optimal warehouses locations
+- Map of the optimal warehouse locations
 
 ## Get Started
-+ You will need to install folium module using !pip install folium.
++ You will need to install the folium module using !pip install folium.
 
-+ You will also need latitude and longtitude of high schools and volumne to run the program.
++ The columns include location name, latitude, longitude, and volume.
+
 
 ## Contributors
 
