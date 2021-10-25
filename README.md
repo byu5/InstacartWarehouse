@@ -15,7 +15,9 @@ The data analysis will provide:
 - Map of the optimal warehouse locations
 
 ## Data Visualizations
+Visualize locations based on volume
 ![image1](map.png)
+Results for the optimized location(s)
 ![image2](optimal_loc.png)
 
 ## Get Started
