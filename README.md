@@ -14,7 +14,7 @@ The center of gravity is therefore the location giving the lowest total transpor
 The data analysis will provide:
 - Map of the optimal warehouse locations
 
-##Data Visualizations
+## Data Visualizations
 ![image1](map.png)
 ![image2](optimal_loc.png)
 
